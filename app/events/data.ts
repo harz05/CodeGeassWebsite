@@ -46,6 +46,23 @@ const data: blocksData = [
     url: 'https://drive.google.com/drive/folders/1UDGr0HSmmfIxMJkF9ZlTsgX2PhBgAOnG',
     image_url: '/Events/pics/circuit.png',
   },
+  {
+    id: '5',
+    title: 'Code, Compete, Conquer',
+    start_month: 'September 2024',
+    description:
+      "This contest is a great opportunity to challenge yourself, sharpen your problem-solving skills, and compete with your peers. Whether you are an experienced programmer or just getting started, this event is for everyone. We encourage all levels of coding enthusiasts to participate! You also have a chance to win some exclusive Coding Club goodies!",
+    image_url: '/Events/pics/C3.png',
+  },
+  {
+    id: '6',
+    title: 'Arcadia- A Game Jam',
+    start_month: 'August - October 2024',
+    description:
+      "Arcadia is an event where your wildest game ideas can come to life! Join forces with fellow designers and storytellers to create captivating games and showcase your talents.",
+      url: 'https://docs.google.com/document/d/1FrgPU6TnbxQVi0AyiPxa297S0ZxGavvyRxogXoXDPhw/edit?tab=t.0',
+    image_url: '/Events/pics/Arcadia.png',
+  },
 ]
 
 export default data
